@@ -1,0 +1,2 @@
+# TransformerFromScratch
+复现transformer架构来实现seq2seq机器翻译
